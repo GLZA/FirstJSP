@@ -42,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
@@ -188,6 +189,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1586777347217" />
+    <state x="412" y="27" key="CommitChangelistDialog2" timestamp="1587387234219">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="412" y="27" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1587387234219" />
     <state width="1389" height="219" key="GridCell.Tab.0.bottom" timestamp="1587386820555">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
