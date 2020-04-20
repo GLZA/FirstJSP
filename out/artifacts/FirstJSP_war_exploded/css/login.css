@@ -1,0 +1,136 @@
+@CHARSET "UTF-8";
+#login
+{
+	width:1126px;
+	height:623px;
+	background-color:#f8f8f8;
+	float:left;
+}
+#loginmain
+{
+	width:400px;
+	height:400px;
+	background-color:;
+	margin-left:350px;
+	margin-top:100px;
+	float:left;
+}
+
+#loginhead
+{
+	float:left;
+	width:380px;
+	height:70px;
+	border-radius: 15px 50px 0px 0px;
+	border-color:#f4f4f4;
+	box-shadow: 10px 10px 5px #888888;
+	background-color:#08a2ba;
+}
+#loginhead span
+{
+	margin-top:20px;
+	float:left;
+	padding-left:65px;
+	width:315px;
+	font-family:粗体;
+	color:#ffffff;
+	font-size:22px;
+}
+#logininput
+{
+	float:left;
+	width:380px;
+	background-color:#ffffff;
+	height:300px;
+	box-shadow: 10px 10px 5px #888888;
+	border-radius:0 0 15px 50px;
+}
+#ui
+{
+	width:315px;
+	padding-left:65px;
+	height:20px;
+	float:left;
+}
+#ps
+{
+	width:315px;
+	padding-left:65px;
+	height:20px;
+	float:left;
+}
+#warm
+{
+	float:left;
+	width:315px;
+	height:20px;
+	padding-left:65px;
+	margin-top:10px;
+}
+#loginuserdiv
+{
+	margin-top:30px;
+	height:65px;
+	width:380px;
+	float:left;
+}
+#loginpassdiv
+{
+	margin-top:15px;
+	height:65px;
+	width:380px;
+	float:left;
+}
+#loginuser
+{
+	border-radius:6px;
+	margin-left:65px;
+	width:250px;
+	height:35px;
+	float:left;
+}
+#loginpass
+{
+	border-radius:6px;
+	margin-left:65px;
+	height:35px;
+	width:160px;
+	float:left;
+}
+#forget
+{
+	float:left;
+	color:#ffb0b0;
+	font-size:14px;
+	margin-left:20px;
+	margin-top:10px;
+}
+#loginbottom
+{
+	width:380px;
+	height:50px;
+	padding-top:15px;
+	float:left;
+}
+#loginsubmit
+{
+	float:left;
+	height:35px;
+	width:60px;
+	border:none;
+	margin-left:65px;
+	border-radius:6px;
+	background-color:#08a2ba;
+	color:#f8f8f8;
+}
+#reggoing
+{
+	color:#f8f8f8;
+	float:left;
+	height:35px;
+	width:60px;
+	border:none;
+	margin-left:20px;
+	border-radius:6px;
+	background-color:#08a2ba;
+}

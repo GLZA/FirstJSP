@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#main-left
+{
+	width:200px;
+	height:703px;
+	background-color:#28323b;
+	float:left;
+}

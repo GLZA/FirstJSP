@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+#toptime
+{
+	width:1166px;
+	height:25px;
+	float:left;
+	background-color:#ffffff;
+}
+#showtime
+{
+	padding-top:4px;
+	height:21px;
+	width:190px;
+	margin-left:925px;
+	float:left;
+	color:#9a9a9a;
+	font-size:12px;
+}
+#showweek
+{
+	padding-top:4px;
+	margin-right:10px;
+	height:21px;
+	float:right;
+	color:#9a9a9a;
+	font-size:12px;
+}
+#item
+{
+	width:1126px;
+	margin-top:20px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:5px;
+	height:623px;
+	background-color:#ffffff;
+	float:left;
+}

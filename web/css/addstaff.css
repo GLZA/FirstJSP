@@ -1,0 +1,91 @@
+@CHARSET "UTF-8";
+#addstaffitem
+{
+	width:1126px;
+	height:623px;
+	background-color:#fff;
+	float:left;
+}
+#add-form
+{
+	padding-top:23px;
+	margin:0 auto;
+	width:600px;
+	height:600px;
+}
+#add-form div
+{
+	position:relative;
+	width:600px;
+	height:42px;
+	float:left;
+}
+#add-form div span
+{
+	float:left;
+	position:absolute;
+	font-family:粗体;
+	font-size:13px;
+	top:5px;
+	left:90px;
+}
+.inputposi
+{
+	position:absolute;
+	float:left;
+	height:30px;
+	left:200px;
+	border-radius:6px 6px 6px 6px;
+}
+.checkbox1
+{
+	float:left;
+	width:18px;
+	height:18px;
+	margin-top:4px;
+	margin-left: 200px;
+}
+.checkbox2
+{
+	float:left;
+	width:18px;
+	height:18px;
+	margin-top:4px;
+	margin-left:60px;
+}
+#text1,#text2
+{
+	float: left;
+}
+#warm
+{
+	float:left;
+	height:30px;
+	width:150px;
+	padding-left:120px;
+	text-align: center;
+}
+#warm span
+{
+	float:left;
+	height:30px;
+	width:150px;
+	padding-left:45px;
+	text-align: center;
+}
+#buttom input
+{
+	border:none;
+	height:30px;
+	width:60px;
+	border-radius:6px 6px 6px 6px;
+	background-color:#ffa200;
+}
+#submit
+{
+	margin-left: 200px;
+}
+#reset
+{
+	margin-left: 40px;
+}

@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+body
+{
+	background-color:#858585;
+	font-size:14px;
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+}
+#continor
+{
+	width:1366px;
+	height:768px;
+	background-color:#f8f8f8;
+	margin:auto;
+}

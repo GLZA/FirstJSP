@@ -1,0 +1,67 @@
+@CHARSET "UTF-8";
+
+#top
+{
+	width:1366px;
+	height:65px;
+	color:#fbffff;
+	background-color:#08a2ba;
+	float:left;
+}
+#logo
+{
+	width:250px;
+	height:65px;
+	float:left;
+}
+#logo img
+{
+	margin-top:5px;
+	margin-left:10px;
+	float:left;
+}
+#logo span
+{
+	font-size:16px;
+	margin-top:20px;
+	margin-left:10px;
+	float:left;
+}
+#indexuser
+{
+	color:#fbffff;
+	text-decoration: none;
+}
+#set
+{
+	float:right;
+	width:700px;
+	height:65px;
+	padding-right: 20px;
+}
+#set ul
+{
+	list-style-type:none;
+	float:right;
+	margin:0;
+	padding:0;
+	
+}
+#set ul li
+{
+	float:left;
+}
+.bar
+{
+	margin-top:4px;
+	height:40px;
+	width: 80px;
+}
+.bar a span
+{
+	font-size:12px;
+	width:80px;
+	text-align: center;
+	float:left;
+}
+.bar a{text-decoration: none;}

@@ -1,0 +1,75 @@
+@CHARSET "UTF-8";
+#wel
+{
+	width:1126px;
+	height:623px;
+	background-color:#f8f8f8;
+	float:left;
+}
+#welmain
+{
+	width:400px;
+	height:400px;
+	background-color:;
+	margin-left:350px;
+	margin-top:100px;
+	float:left;
+}
+
+#welhead
+{
+	float:left;
+	width:380px;
+	height:70px;
+	border-radius: 15px 50px 0px 0px;
+	border-color:#f4f4f4;
+	box-shadow: 10px 10px 5px #888888;
+	background-color:#08a2ba;
+}
+#welhead span
+{
+	margin-top:20px;
+	float:left;
+	padding-left:140px;
+	width:260px;
+	font-family:粗体;
+	color:#ffffff;
+	font-size:22px;
+}
+
+#welinput
+{
+	float:left;
+	width:380px;
+	background-color:#ffffff;
+	height:100px;
+	box-shadow: 10px 10px 5px #888888;
+	border-radius:0 0 15px 50px;
+}
+.jq
+{
+	float:left;
+	width:380px;
+	height:3px;
+	background-color:#ffffff;
+}
+#secscop
+{
+	font-family:粗体;
+	font-size:14px;
+	float:left;
+	color:#9a9a9a;
+	width:14em;
+	margin-left:100px;
+	margin-top:25px;
+}
+#secscop a
+{
+	color:#ff9f40;
+}
+#secs
+{
+	color:#ff5e62;
+	font-family:粗体;
+	font-size:16px;
+}
